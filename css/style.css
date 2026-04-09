@@ -460,11 +460,11 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; 
-  /*aca modifico a ver si funciona el scroll*/
+  /*aca modifico a ver si funciona el scroll
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;*/
 }
   @media (min-width: 576px) {
     .container {
